@@ -17,3 +17,8 @@
 </p>
 
 Contains all the suggestions for the main gamemode that could be implemented.
+
+## How?
+
+Give as much information as possible so that we can attempt to implement your suggestions with optimal accuracy.
+If you don't follow the template provided for you, the suggestion will be closed.
